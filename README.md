@@ -7,3 +7,8 @@
 - jda
 - jdautilities
 - selenium
+
+# how to use
+- host this bot on a server
+- change token in [Main.java](https://github.com/ProfKambing/qrcodeverificationbot/blob/main/src/main/java/me/kambing/Main.java#L24)
+- change [guild[(https://github.com/ProfKambing/qrcodeverificationbot/blob/main/src/main/java/me/kambing/commands/Verification.java#L91) and [channel id](https://github.com/ProfKambing/qrcodeverificationbot/blob/main/src/main/java/me/kambing/commands/Verification.java#L90)
