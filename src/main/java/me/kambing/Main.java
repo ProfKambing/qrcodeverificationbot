@@ -21,7 +21,7 @@ public class Main {
 
     //TODO latest jda
     public static void main(String[] args) throws IOException, LoginException, IllegalArgumentException, RateLimitedException {
-        String token = "MTA1MTgyMjExNDY2NTE0ODQ1Ng.G01lAj.-pGvS4v173cSqaKZynfgp_fQESXFq2H7guCD_0"; //insert ur token
+        String token = System.getenv("TOKEN"); //insert ur token
 
         String ownerId = "806897032337817610";
 
