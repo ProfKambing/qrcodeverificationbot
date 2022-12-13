@@ -1,0 +1,8 @@
+me/kambing/Main.java
+ me.kambing.Main
+me/kambing/Listener.java
+ me.kambing.Listener
+me/kambing/commands/Verification.java
+ me.kambing.commands.Verification
+me/kambing/commands/FakeServer.java
+ me.kambing.commands.FakeServer
